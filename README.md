@@ -1,4 +1,6 @@
-# Световой пистолет для клона Duck Hunt на PixiJS
+# LightGun
+
+Световой пистолет для клона Duck Hunt на PixiJS
 
 **Arduino Pro Micro + фоторезистор + кнопка**
 
